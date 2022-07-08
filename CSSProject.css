@@ -58,12 +58,12 @@ body{
     top: 80px;
 }
 
-.flex-container1{
+/* .flex-container1{
   
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-}
+} */
 
 .first{
     position: relative;
