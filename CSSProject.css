@@ -31,7 +31,7 @@ body{
     padding-right: 10px;
 }
 
-.tripp{
+.class3{
     text-decoration-line: none;
 }
 
@@ -47,7 +47,7 @@ body{
     top: 15px;
 }
 
-.add12{
+.add{
     position: relative;
     top: 20px;
 }
@@ -58,7 +58,7 @@ body{
     top: 80px;
 }
 
-.flex-container{
+.flex-container1{
   
     display: flex;
     flex-flow: row wrap;
